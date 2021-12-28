@@ -21,20 +21,20 @@ My name is Nguyen. I'm based in Danang. I mainly use Python as my primary progra
 
 I work as an AI Engineer at FTECH.AI. I have two-year exp in Computer Vision / ML / Deep Learning (basically). Now, I'm learning more about deploying, scaling, optimizing, and monitoring AI applications in production (preferred as MLOps) using technologies and concepts like:
 
-Docker (docker-compose)
-Task Queue (Celery)
-Asyncio / Multiprocessing / Multithreading
-Message Broker (RabbitMQ, Redis)
-REST (FastAPI)
-Triton Inference Server
-Monitoring (Prometheus, Grafana, Flower)
-Database (Postgres, MongoDB) 
-Infrastructure as Code
+- Docker (docker-compose)
+- Task Queue (Celery)
+- Asyncio / Multiprocessing / Multithreading
+- Message Broker (RabbitMQ, Redis)
+- REST (FastAPI)
+- Triton Inference Server
+- Monitoring (Prometheus, Grafana, Flower)
+- Database (Postgres, MongoDB) 
+- Infrastructure as Code
 
-🙋🏻‍♂️ Sharing
+### 🙋🏻‍♂️ Sharing
 I've started to post some short notes on https://dev.to/nguyendhn. Take a look!
 
-🙄 Leisure
+### 🙄 Leisure
 Curious about what I do once I close the lid of my MacBook?
 
 spending time with my girlfriend and my family 👩‍❤️‍👨
