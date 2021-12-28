@@ -37,8 +37,12 @@ I've started to post some short notes on https://dev.to/nguyendhn. Take a look!
 ### 🙄 Leisure
 Curious about what I do once I close the lid of my MacBook?
 
-spending time with my girlfriend and my family 👩‍❤️‍👨
+spending time with my girlfriend and my family 😄
+
 badminton 🏸
+
 Netflix 🎬
+
 photography 📷
+
 reading 📕
