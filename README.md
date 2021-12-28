@@ -21,7 +21,7 @@ My name is Nguyen. I'm based in Danang. I mainly use Python as my primary progra
 
 I work as an AI Engineer at FTECH.AI. I have two-year exp in Computer Vision / ML / Deep Learning (basically). Now, I'm learning more about deploying, scaling, optimizing, and monitoring AI applications in production (preferred as MLOps) using technologies and concepts like:
 
-- Docker (docker-compose)
+- Docker
 - Task Queue (Celery)
 - Asyncio / Multiprocessing / Multithreading
 - Message Broker (RabbitMQ, Redis)
