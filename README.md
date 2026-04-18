@@ -16,18 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Nguyen (Alex). I'm based in Da Nang.
 
-My name is Nguyen. I'm based in Danang. I mainly use Python as my primary programming language.
+I have 5+ years of experience in AI — spanning Computer Vision, Deep Learning, AI Agents, and MLOps. I focus on deploying, scaling, optimizing, and monitoring AI applications in production environments
 
-I work as an AI Engineer and also a Team Leader at FTECH.AI. I have three-year exp in Computer Vision / ML / Deep Learning (basically). Now, I'm learning more about deploying, scaling, optimizing, and monitoring AI applications in production (preferred as MLOps).
-
-### 🙋🏻‍♂️ Sharing
-I've started to post some short notes on https://www.nguyendhn.com/. Take a look!
-
-### 🙄 Leisure
+### 👀 Leisure
 Curious about what I do once I close the lid of my laptop?
 
-Photography 📷
+Photography / Videography 📷
 
 Reading 📕
 
@@ -35,7 +31,7 @@ Badminton 🏸
 
 Watching movies 🎬
 
-Spending time with my wife and my family 😄
+Spending time with my family 😄
 
 
 
