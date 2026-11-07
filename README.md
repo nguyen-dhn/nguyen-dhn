@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Nguyen (Alex). I'm based in Da Nang.
 
-I have 5+ years of experience in AI — spanning Computer Vision, Deep Learning, AI Agents, and MLOps. I focus on deploying, scaling, optimizing, and monitoring AI applications in production environments
+I have 8+ years of experience in AI — spanning Computer Vision, Deep Learning, AI Agents, and MLOps. I focus on deploying, scaling, optimizing, and monitoring AI applications in production environments
 
 ### 👀 Leisure
 Curious about what I do once I close the lid of my laptop?
